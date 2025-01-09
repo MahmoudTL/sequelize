@@ -1,5 +1,6 @@
 {
-  "name": "sequelize",
+  "name": "@sequelize",
+  "version": "7.1.0",
   "private": true,
   "scripts": {
     "prepare": "husky",
