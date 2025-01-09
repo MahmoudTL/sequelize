@@ -1,5 +1,5 @@
 {
-  "name": "@sequelize",
+  "name": "sequelize",
   "private": true,
   "scripts": {
     "prepare": "husky",
